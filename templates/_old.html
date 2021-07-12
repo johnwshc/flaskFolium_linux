@@ -1,0 +1,22 @@
+{% block header %}
+  <h1>Paris Folium</h1>
+{% endblock %}
+
+{% block content %}
+
+    <div id="locationList">
+        <ul>
+            <li> Location: {%address%}</li>
+            <li> Longitude: {%longitude%}</li>
+            <li> Latitude: {%latitude %}</li>
+        </ul>
+    </div>
+
+    {#<form method="post">
+      <label for="age">Age</label>
+      <input name="age" id="age" value="{{ request.form['age'] }}">
+      <input type="submit" value="Search">
+    </form>#}
+{% endblock %}
+
+{% extends 'paris.html' %}

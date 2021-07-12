@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+<div id="locationList">
+        <ul>
+            <li> Location: {{ address }}</li>
+            <li> Longitude: {{ longitude }}</li>
+            <li> Latitude: {{ latitude }}</li>
+        </ul>
+    </div>
+
+    {#<form method="post">
+      <label for="age">Age</label>
+      <input name="age" id="age" value="{{ request.form['age'] }}">
+      <input type="submit" value="Search">
+    </form>#}
+
+    {% include map  %}
+</body>
+</html>

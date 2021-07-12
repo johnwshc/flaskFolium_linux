@@ -1,0 +1,9 @@
+#YVR2=   British Columbia=    FC=  450 Derwent PL Delta, British Columbia V3M 5Y9
+#YVR3=	British Columbia=	FC=	109 Braid St, New Westminster, BC V3L 3R9, Canada
+#YYZ1=   Ontario= FC=  6363 Millcreek Drive Mississauga, Ontario L5N 1L8
+#YYZ2=	Ontario=	FC=	2750 Peddie Rd. Milton, Ontario L9T 6Y9
+#YYZ3=	Ontario=	FC=	7995 Winston Churchill Blvd. Brampton, Ontario L6Y 0B2
+#YYZ4=	Ontario=	FC=	8050 Heritage Rd., Brampton, Ontario L6Y 0C9
+#YYZ6=	Ontario=	FC=	8050 Heritage Rd., Brampton, Ontario L6Y 0C9
+#PRTO=	Ontario=	FC=	6110 Cantay Rd. Mississauga, Ontario L5R 3W
+#YYC1=   British Columbia=    FC=  Construction is expected done fall 2018
